@@ -1,0 +1,19 @@
+title: Protocole et Histoire 
+email: steph@stephanemourey.fr
+description: "@TODO"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://protocoleethistoire.stephanemourey.fr" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ImpossibleExil
+github_username:  taophp
+
+markdown: kramdown
+theme: taorain
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+timezone: Europe/Paris
+permalink: /:title.html
